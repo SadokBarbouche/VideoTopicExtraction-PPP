@@ -57,3 +57,6 @@ To run the code in this repository, you need the following libraries:
    git clone https://github.com/SadokBarbouche/VideoTopicExtraction-PPP
 2. For a better user experience , you may want to install jupyter notebook (VSCode can nevertheless do the job)      
 
+## To learn more about our project , check the folloiwing link : https://drive.google.com/drive/folders/1SHHJRXg2_L4ahrHNclFr84PjW7wwU07h
+
+
